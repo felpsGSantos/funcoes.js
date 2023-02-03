@@ -52,7 +52,7 @@ console.log(centimetro(5))*/
 
 console.log(conversao(2.00))*/
 
-function maior(a,b){
+/*function maior(a,b){
 
     
 
@@ -65,7 +65,7 @@ else{
 
 }
 
-maior(10,4)
+maior(10,4)*/
 
  
 
